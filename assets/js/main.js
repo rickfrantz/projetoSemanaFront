@@ -14,8 +14,3 @@ $btn.addEventListener('click', () => {
     console.log(formulario);
 });
 
-function enviarFormulario() {
-
-    
-}
-console.log($btn);
